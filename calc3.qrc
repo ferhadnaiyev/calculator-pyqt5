@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>hl-icon.ico</file>
+    <file>logo-berserk.jpg</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>hl-bg.png</file>
+  </qresource>
+</RCC>
