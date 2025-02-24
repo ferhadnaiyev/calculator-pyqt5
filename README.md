@@ -1,3 +1,4 @@
+![calculator] (preview.png)
 # Getting Started
 
 ## Running the Application
